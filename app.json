@@ -10,10 +10,10 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/Ns-AnoNymouS/Renamer",
+    "repository": "https://github.com/tutydeepak/TG-RENAMER-BOT-1",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/Anonymous_Moviez",
+    "success_url": "https://t.me/AMRNam_bot",
 
     "env": {
         "API_HASH": {
